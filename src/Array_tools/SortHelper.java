@@ -1,6 +1,7 @@
 package Array_tools;
 
 public class SortHelper {
+    //提供一些数组的方法
     //打印数组
     public void print(int[] a){
         for(int i =0;i<a.length;i++){
